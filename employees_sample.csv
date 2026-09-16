@@ -1,0 +1,16 @@
+emp_id,emp_name,department,job_title,salary,joining_date,employment_type,location
+101,John Doe,Engineering,Software Engineer,75000,2023-01-15,Full-Time,Chennai
+102,Jane Smith,Marketing,Marketing Specialist,65000,2023-02-20,Full-Time,Bengaluru
+103,Bob Johnson,Engineering,Senior Engineer,85000,2023-03-10,Full-Time,Hyderabad
+104,Alice Brown,Sales,Sales Executive,70000,2023-04-05,Full-Time,Chennai
+105,Charlie Wilson,HR,HR Executive,55000,2023-05-12,Full-Time,Pune
+106,David Lee,IT,Cloud Engineer,80000,2023-06-01,Full-Time,Bengaluru
+107,Sarah Connor,Finance,Financial Analyst,82000,2023-07-15,Full-Time,Mumbai
+108,Mike Ross,Legal,Legal Associate,90000,2023-08-20,Full-Time,Delhi
+109,Rachel Zane,Marketing,Brand Analyst,68000,2023-09-10,Full-Time,Bengaluru
+110,Harvey Specter,Legal,Senior Legal Counsel,95000,2023-10-05,Full-Time,Delhi
+111,Louis Litt,Finance,Finance Manager,72000,2023-11-12,Full-Time,Mumbai
+112,Emma Stone,Engineering,Data Engineer,88000,2024-01-08,Full-Time,Chennai
+113,Liam Brown,IT,DevOps Engineer,83000,2024-02-14,Full-Time,Hyderabad
+114,Olivia Davis,HR,Recruitment Specialist,62000,2024-03-18,Full-Time,Pune
+115,Noah Wilson,Sales,Account Manager,76000,2024-04-22,Full-Time,Chennai

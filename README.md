@@ -154,9 +154,3 @@ After completing this project, a student should be able to explain:
 - How reusable SQL views support reporting
 
 ---
-
-## Author
-
-**Student:** Swati Gupta  
-**Date:** September 2026  
-**Platform:** Snowflake
